@@ -46,7 +46,10 @@ public static void chamarMenu(float[] vetX){
 
          int vender = Integer.parseInt(input.nextLine());
          System.out.println("");
-         System.out.println("");
+         System.out.println("Informe a quantidade que deseja vender:");
+         int quantidade = Integer.parseInt(input.nextLine());
+
+         if (vender)
 
 
 
